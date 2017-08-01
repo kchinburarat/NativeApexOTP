@@ -226,7 +226,7 @@ public class OTPManager
                 return false;
             }
         }
-        //Every Thinks OK
+        //Every Things OK
 
         system.debug('Verify success ');
         otp.Is_Expired__c = false;
